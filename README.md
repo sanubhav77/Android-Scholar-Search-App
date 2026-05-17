@@ -2,9 +2,6 @@
 
 > Search arXiv's 2M+ academic papers from your phone. Get clean results in seconds, not minutes of scrolling through dense feeds.
 
-<p align="center">
-  <img src="docs/app_screenshot.png" alt="ScholarSearch Android app" width="300"/>
-</p>
 
 <p align="center">
   <a href="https://youtu.be/u3WGUR-A3V4">▶ Watch the demo</a>
